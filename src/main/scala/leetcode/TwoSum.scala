@@ -1,4 +1,4 @@
-package main.scala
+package leetcode
 
 import scala.annotation.tailrec
 
