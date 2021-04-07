@@ -21,7 +21,6 @@ object ThreeSum extends App {
       } else if (sum > 0) {
         iterate(current, start, end - 1, solutions)
       } else {
-        println("start::" + start)
         iterate(current, start + 1, end, solutions)
       }
     }
