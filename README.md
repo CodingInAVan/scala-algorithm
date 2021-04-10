@@ -8,3 +8,4 @@
 * ThreeSum ([Problem](https://leetcode.com/problems/3sum/) / [Solution](src/main/scala/leetcode/ThreeSum.scala))
 * Container with Most Water ([Problem](https://leetcode.com/problems/container-with-most-water/) / [Solution](src/main/scala/leetcode/ContainerWithMostWater.scala))
 * Longest Palindromic Substring ([Problem](https://leetcode.com/problems/longest-palindromic-substring/) / [Solution](src/main/scala/leetcode/LongestPalindromicSubstring.scala))
+* Median of Two Sorted Arrays ([Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) / [Solution](src/main/scala/leetcode/FindMedianSortedArrays.scala))
