@@ -10,3 +10,5 @@
 * Longest Palindromic Substring ([Problem](https://leetcode.com/problems/longest-palindromic-substring/) / [Solution](src/main/scala/leetcode/LongestPalindromicSubstring.scala))
 * Median of Two Sorted Arrays ([Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) / [Solution](src/main/scala/leetcode/FindMedianSortedArrays.scala))
 * Letter Combinations of a Phone Number ([Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) / [Solution](src/main/scala/leetcode/LetterCombinationsPhoneNumber.scala))
+* Sort Array by Increasing Frequency ([Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) / [Solution](src/main/scala/leetcode/FindTheMinNumOfFib.scala))
+* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K ([Problem](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) / [Solution](src/main/scala/leetcode/FindTheMinNumOfFib.scala))
