@@ -1,6 +1,6 @@
 # scala-algorithm
 
-### Solving LeetCode problems and other alogorithms in Scala way
+### Solving LeetCode problems and other algorithms in Scala way
 * Two Sum Problem ([Problem](https://leetcode.com/problems/two-sum/) / [Solution](src/main/scala/leetcode/TwoSum.scala))
 * Add Two Numbers ([Problem](https://leetcode.com/problems/add-two-numbers/) / [Solution](src/main/scala/leetcode/TwoNumbers.scala)): Input type changed to scala's List type because the input leetcode provided is created with null, and that is considered not good practice.
 * Longest Substring without Repeating Characters ([Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [Solution](src/main/scala/leetcode/LongestSubstringWithoutRepeatingChars.scala))
