@@ -12,3 +12,6 @@
 * Letter Combinations of a Phone Number ([Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) / [Solution](src/main/scala/leetcode/LetterCombinationsPhoneNumber.scala))
 * Sort Array by Increasing Frequency ([Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) / [Solution](src/main/scala/leetcode/FindTheMinNumOfFib.scala))
 * Find the Minimum Number of Fibonacci Numbers Whose Sum Is K ([Problem](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) / [Solution](src/main/scala/leetcode/FindTheMinNumOfFib.scala))
+* Candy ([Problem](https://leetcode.com/problems/candy/) / [Solution](src/main/scala/leetcode/Candy.scala))
+* BestTimeToBuyAndSellStockII ([Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) / [Solution](src/main/scala/leetcode/BestTimeToBuyAndSellStockII.scala))
+* Largest Number ([Problem](https://leetcode.com/problems/largest-number/) / [Solution](src/main/scala/leetcode/LargestNumber.scala))
